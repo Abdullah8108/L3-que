@@ -1,0 +1,122 @@
+1.How many broadcast receivers are available in android - 2
+
+
+2.OS that android uses - Linux 
+
+
+3. Top most layer of Android architecture - application framework
+  
+
+4. Layer below applications layer - Presentation layer 
+
+
+5. What is the life cycle of broadcast receivers in android - onRecieve  Context, Intent
+
+
+6. What is the difference between margin and padding in the Android layout - Both A and B correctMargin defines the extra space outside the border of a view. Padding defines the extra space inside the border of a view. Margin is used to create extra space between two views. Padding is used to create extra space around the content of a view
+
+
+7. What is the life cycle of foreground activity in android - onCreate() −> onStart() −> onResume()
+
+
+8. What is a broadcast receiver in android - It will react to broadcast announcements.
+
+
+9. What is an APK in android - Android Packaging Kit
+
+
+10. What are the functionalities of the HTTP Client interface in android - All of the above
+
+
+11. What is a GCM in android - Google cloud messaging for chrome
+
+
+12. What is an activity in Android - Activity performs the actions on the screen
+
+
+13. Among the following options choose the one for which Android is based on Linux - All of the above
+
+
+14. One of the operating system that cannot be used for android application development is - contiki
+
+
+15. Which of the following is the first mobile phone released that ran the Android OS - T-mobile G1
+
+
+16. The XML file that contains all the text that your application uses - Strings.xml
+
+
+17. Which among the following are part of "Application" layer of Android Architecture - all of the above 
+
+
+18. A _____ makes a specific set of the application data available to other applications - Content provider
+
+ 
+19. Which among the following are part of the Application layer of Android architecture -  Activities, Services, Content Providers, and Broadcast Receivers
+
+	
+20. What is Pending Intent in android - It will fire at a future point in time.
+
+
+21. What are commands needed to create APK in android - Javac,dxtool, aapt tool, jarsigner tool, and zipalign
+
+	
+22. What is the HTTP response error code status in android - status >= 400
+
+
+23. What is the development environment for Android - IDE
+
+
+24. What is the name of the program that converts Java byte code into Dalvik byte code - dex compiler
+
+
+25. Which mobile phone OS contains open APIs that may be ___ attack - Vulnerable to
+
+
+26.Speed of wlan is- 54mbps
+
+ 
+27. Is not a Android OS is- mango
+
+28. Orientation service is -4
+
+29. Broadcast receive react- on receive
+
+30. Security problems should not onnn such things for safety purpose like- Bluetooth
+
+31. Should not use ------ fingerprint for safety reasons is - biometric
+
+32. Environment development kit is - SDK
+
+33. Which of the following is the built-in database of Android?- sql-lite
+
+34.How can we kill the adroid
+Using finish() method
+Using finishActivity(int requestCode
+
+35. What is the use of content provider in Android?-
+-For sending the data from an application to another application
+
+36. Which of the following is contained in the src folder?- Java SRC code
+
+37. Which of the following is the topmost layer of android architecture?- application
+
+38. Which of the layer is below the topmost layer of android architecture?- application framework
+ 
+
+39. android is based on linux for which reason- all of these - security, portability, networking
+
+40. what is the name of google play service before- Android market
+ 
+
+41. to develop an android application andorid needs to be there on device- false
+
+42. ____ is the protection of smart-phones, phablets, tablets, and other portable tech-devices, & the networks to which they connect to, from threats & bugs- mobile security
+
+#Which of the following does NOT help with mobile data security?- MDM software
+#Mobile security is also known as _____- wireless security
+#BBProxy tool is used in which mobile OS? - blackberry
+
+#Which of the following tool is used for Blackjacking? - bbproxy
+#Mobile Lite is an extension of the ____ cloud service- Salesforce
+#. A user is using an IEEE 802.11b a wireless LAN. What is the maximum data rate specified for this WLAN- 11 Mbps
